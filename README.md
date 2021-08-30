@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-## Our Goal
+## Goal
 This is an app created in my tutorial course of Flutter. 
 
 ## What do i lean with this tutorial app
